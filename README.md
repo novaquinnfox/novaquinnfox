@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Nandhika Vardhini 👩‍💻</h1>
 <h3 align="center">Aspiring Cybersecurity Engineer | B.Tech ECE | Digital Forensics Enthusiast</h3>
-<img width="1024" height="1024" alt="ChatGPT Image Jul 14, 2025, 10_13_35 AM" src="https://github.com/user-attachments/assets/e6fa4256-6198-4a26-8650-22ea51469b8a" />
-
-
----
 
 🌟 Welcome to my GitHub profile! Here's a quick intro:
 
