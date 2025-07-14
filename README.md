@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="[https://your-uploaded-banner-link-here](https://github.com/user-attachments/assets/62bc4e8a-d69f-4e52-8d5b-9337f8eb033e)" alt="Cybersecurity Pixel Art" width="75%"/>
+  <img src="https://github.com/user-attachments/assets/62bc4e8a-d69f-4e52-8d5b-9337f8eb033e" alt="Cybersecurity Pixel Art" width="75%"/>
 </p>
 
 ---
