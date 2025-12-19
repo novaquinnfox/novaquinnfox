@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nandhika Vardhini 👩‍💻</h1>
-<h3 align="center">Cybersecurity Intern | B.Tech ECE | Web3 Curious | Google Dreamer</h3>
+<h3 align="center">IIT Research Intern | B.Tech ECE | Web3 Curious | Google Dreamer</h3>
 
 
 ---
@@ -13,8 +13,9 @@
 ### 🌸 About Me
 
 - 🎓 I'm pursuing **B.Tech in ECE** from Sri Manakula Vinayagar Engineering College  
-- 💼 Cybersecurity Intern @ **Tutler** (6+ months hands-on experience)  
-- 🧠 Currently learning **Python, IoT Security, Git, and Cloud Fundamentals**  
+- 💼 Cybersecurity Intern @ **Tutler** (6+ months hands-on experience)
+- 💫 Currently working as a *Research Intern* at **IIT Kharagpur, West Bengal, India**
+- 🧠 Learning **Python, IoT Security, Git, and Cloud Fundamentals**  
 - 🚀 Aspiring to become a **Cloud Security Engineer** at **Google or Amazon**  
 - 💫 I’m exploring **Blockchain, Smart Contracts & Web3 security**  
 - 🥋 Fun fact: I’ve trained in **Taekwondo for 12 years** & **Classical Dance for 14 years**!
